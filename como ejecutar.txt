@@ -1,0 +1,5 @@
+https://github.com/NicoxMelia/DockerExamples/tree/main/octave-math
+https://claude.ai/chat/d8658d6d-da30-4da4-8091-9270fc8eea14
+
+docker build -t mi-octave-app .
+docker run mi-octave-app
